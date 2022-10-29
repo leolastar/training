@@ -1,0 +1,24 @@
+Backend has two folders/app
+
+flask 
+is the flask app
+
+run app
+cd /Backend/flask
+on windows
+python flask_server.py
+access localhost:3002
+
+node
+is the node app
+
+run app
+cd /Backend/node
+node node_server.js
+
+frontend
+
+run app
+cd frontend/my-app
+npm i
+npm start
